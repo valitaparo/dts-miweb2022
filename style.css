@@ -1,0 +1,52 @@
+body {background: rgb(223, 206, 245);}
+
+.titulo {color: purple; 
+		margin: 20px;
+		background-color: white;
+		border-style: solid;
+		border-color: purple;
+		padding: 2px;
+		border-radius: 20px;
+		width: 320px;}
+
+.bandera { width: 300px ; height: 200px; 
+		background-color: grey;
+		margin: 20px;}
+
+.paquete { display: inline-block; }
+
+.nombre {margin: 20px; font-size: 20px;}
+
+a {color: blue;}
+a:hover {color: white;}
+
+.columna {height: 200px; display: inline-block; 
+		float: left;}
+
+#verde { background-color: green; 
+		width:120px ;}
+
+#rojo {background-color: red; 
+		width: 180px;}
+
+.port {width: 250px; height: 150px; 
+		position: absolute; left: 24px; top: 175px;}
+
+
+#madagascar { background-color: white; }
+
+.franja {height: 100px; width: 200px;}
+
+#roj {background-color: red; float: right;}
+
+#ver {background-color: green; float: right;}
+
+#suecia {background-color: rgba(0,106,166,255);}
+
+.lineas {background-color: rgba(255,204,1,255);}
+
+#largo {height: 30px; width: 300px; 
+	position: relative; top: 85px;}
+
+#ancho {height: 200px; width: 30px; 
+	position: relative; bottom: 30px; left: 100px;}
